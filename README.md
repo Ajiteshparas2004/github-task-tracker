@@ -3,7 +3,7 @@
 This is a task tracker project.
 
 ## Project URL
-Task Tracker GitHub Repository
+https://github.com/Ajiteshparas2004/github-task-tracker
 
 ## Description
 A simple task tracker application to help manage and organize tasks efficiently.
